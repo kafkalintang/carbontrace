@@ -1,3 +1,5 @@
+"use client"
+
 import DashboardStats from "@/components/features/DashboardStats";
 import EmissionChart from "@/components/features/EmissionChart";
 import NetZeroTracker from "@/components/features/NetZeroTracker";
