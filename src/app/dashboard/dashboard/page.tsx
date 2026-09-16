@@ -15,9 +15,7 @@ export default function DashboardPage() {
             dashboard
           </h1>
 
-          <p className="mt-2 text-slate-600">
-            monitor your carbon footprint and sustainability progress.
-          </p>
+          
         </div>
 
         <DashboardStats />
