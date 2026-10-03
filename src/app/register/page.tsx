@@ -58,7 +58,14 @@ export default function RegisterPage() {
             />
           </div>
 
-          
+          <div className="relative">
+            <Mail className="absolute left-4 top-1/2 h-5 w-5 -translate-y-1/2 text-gray-400" />
+            <input
+              type="email"
+              placeholder="Email Address"
+              className="w-full rounded-xl border border-green-200 bg-white/70 px-4 py-3 pl-12 outline-none transition-all focus:border-emerald-500 focus:ring-4 focus:ring-emerald-200"
+            />
+          </div>
 
           <div className="relative">
             <Lock className="absolute left-4 top-1/2 h-5 w-5 -translate-y-1/2 text-gray-400" />
