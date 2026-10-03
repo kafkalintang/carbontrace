@@ -135,12 +135,7 @@ export default function RegisterPage() {
             </span>
           </div>
 
-          <button
-            type="submit"
-            className="w-full rounded-xl bg-gradient-to-r from-green-500 to-emerald-600 py-3 font-semibold text-white shadow-lg transition-all duration-300 hover:-translate-y-1 hover:shadow-emerald-300"
-          >
-            Create Account
-          </button>
+          
 
         </form>
 
